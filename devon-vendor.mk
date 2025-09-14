@@ -3324,4 +3324,5 @@ PRODUCT_PACKAGES += \
     cnss-daemon \
     android.hardware.biometrics.fingerprint@2.1-service-ets \
     android.hardware.biometrics.fingerprint@2.1-service-fpc \
+    fpc_ident \
     thermal-engine
