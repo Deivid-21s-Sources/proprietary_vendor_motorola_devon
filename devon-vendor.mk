@@ -3098,6 +3098,13 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/devon/proprietary/vendor/etc/init/init_thermal-engine.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/init_thermal-engine.rc \
     vendor/motorola/devon/proprietary/vendor/etc/libnfc-hal-st.conf:$(TARGET_COPY_OUT_VENDOR)/etc/libnfc-hal-st.conf \
     vendor/motorola/devon/proprietary/vendor/etc/libnfc-nci-st.conf:$(TARGET_COPY_OUT_VENDOR)/etc/libnfc-nci-st.conf \
+    vendor/motorola/devon/proprietary/vendor/etc/perf/commonresourceconfigs.xml:$(TARGET_COPY_OUT_VENDOR)/etc/perf/commonresourceconfigs.xml \
+    vendor/motorola/devon/proprietary/vendor/etc/perf/commonsysnodesconfigs.xml:$(TARGET_COPY_OUT_VENDOR)/etc/perf/commonsysnodesconfigs.xml \
+    vendor/motorola/devon/proprietary/vendor/etc/perf/perfboostsconfig.xml:$(TARGET_COPY_OUT_VENDOR)/etc/perf/perfboostsconfig.xml \
+    vendor/motorola/devon/proprietary/vendor/etc/perf/perfconfigstore.xml:$(TARGET_COPY_OUT_VENDOR)/etc/perf/perfconfigstore.xml \
+    vendor/motorola/devon/proprietary/vendor/etc/perf/targetconfig.xml:$(TARGET_COPY_OUT_VENDOR)/etc/perf/targetconfig.xml \
+    vendor/motorola/devon/proprietary/vendor/etc/perf/targetresourceconfigs.xml:$(TARGET_COPY_OUT_VENDOR)/etc/perf/targetresourceconfigs.xml \
+    vendor/motorola/devon/proprietary/vendor/etc/powerhint.xml:$(TARGET_COPY_OUT_VENDOR)/etc/powerhint.xml \
     vendor/motorola/devon/proprietary/vendor/etc/qdcm_calib_data_mipi_mot_vid_tm_nt36672c_fhdp_649.xml:$(TARGET_COPY_OUT_VENDOR)/etc/qdcm_calib_data_mipi_mot_vid_tm_nt36672c_fhdp_649.xml \
     vendor/motorola/devon/proprietary/vendor/etc/qdcm_calib_data_mipi_mot_vid_txd_ft8726_fhdp_649.xml:$(TARGET_COPY_OUT_VENDOR)/etc/qdcm_calib_data_mipi_mot_vid_txd_ft8726_fhdp_649.xml \
     vendor/motorola/devon/proprietary/vendor/etc/qdcm_calib_data_mipi_mot_vid_txd_ft8726_fhdp_649_v0.xml:$(TARGET_COPY_OUT_VENDOR)/etc/qdcm_calib_data_mipi_mot_vid_txd_ft8726_fhdp_649_v0.xml \
